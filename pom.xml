@@ -23,6 +23,7 @@
     </developers>
     <modules>
         <module>hello-world</module>
+        <module>scheduler</module>
     </modules>
     <scm>
         <connection/>
