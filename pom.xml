@@ -24,6 +24,7 @@
     <modules>
         <module>hello-world</module>
         <module>scheduler</module>
+        <module>logger</module>
     </modules>
     <scm>
         <connection/>
